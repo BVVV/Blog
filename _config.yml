@@ -1,8 +1,8 @@
 #Site
-title: 水榭清松-Song Kong
-description: This is Song' home.
+title: 蓝天碧海-WJ
+description: This is WJ' home.
 logo: favicon.png
-url: kongsong.me
+url: ""
 rss_url: /feed.xml
 
 # Jekyll
@@ -20,13 +20,13 @@ sass:
   style:            compressed
 
 # Social Links
-email:               hi@kongsong.me
+email:               43901966@qq.com
 #google.plus:        username
 #twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
+facebook:            ^_^
+github:              BVVV
+stackoverflow:      ^_^
+linkedin:           ^_^
 #xing:              username
 #instagram:          username
 #lastfm:            username
